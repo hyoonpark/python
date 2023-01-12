@@ -98,3 +98,9 @@ _ 기울임 _
 #### push
 
 ~~빨리 퇴근 하고싶다~~ 
+
+
+
+pip install notebook
+
+jupyter notebook
