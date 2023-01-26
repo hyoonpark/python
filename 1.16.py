@@ -3,7 +3,7 @@ print(164) #1월 16일 수업
 ```
 
     164
-    
+
 
 
 ```python
@@ -18,7 +18,7 @@ print(x,y)
 ```
 
     20 10
-    
+
 
 
 ```python
@@ -28,7 +28,7 @@ print(type(age))
 ```
 
     <class 'int'>
-    
+
 
 
 ```python
@@ -38,7 +38,7 @@ print(type(age))
 ```
 
     <class 'float'>
-    
+
 
 
 ```python
@@ -56,7 +56,7 @@ print(type(name2))
     <class 'str'>
     <class 'str'>
     <class 'str'>
-    
+
 
 
 ```python
@@ -74,7 +74,7 @@ checked
 
     <class 'bool'>
     <class 'bool'>
-    
+
 
 
 ```python
@@ -84,7 +84,7 @@ print(id(age))
 ```
 
     2471910206512
-    
+
 
 
 ```python
@@ -92,7 +92,7 @@ print(complex(3)) #complex 복소수
 ```
 
     (3+0j)
-    
+
 
 
 ```python
@@ -103,7 +103,7 @@ print('hello \t world')
     hello
     world
     hello	world
-    
+
 
 
 ```python
@@ -112,7 +112,7 @@ print(f'제 나이는 {age}살 입니다') #f-string 실무에 많이 사용
 ```
 
     제 나이는 25살 입니다
-    
+
 
 
 ```python
@@ -121,7 +121,7 @@ print(test)
 ```
 
     None
-    
+
 
 
 ```python
@@ -133,7 +133,7 @@ print(func())
 
     hello wolrd
     None
-    
+
 
 
 ```python
@@ -153,7 +153,7 @@ print(c is d) #is 객체 아이덴티티, 메모리공간까지 같은지 확인
     2471910205744
     True
     False
-    
+
 
 
 ```python
@@ -178,7 +178,7 @@ print(e) #[1]
     1
     [1, 2]
     [1]
-    
+
 
 
 ```python
@@ -203,7 +203,7 @@ print(boxes[-1][1][0]) #b
     ['apple', 'banana', 'cherry']
     cherry
     b
-    
+
 
 
 ```python
@@ -213,7 +213,7 @@ print(list_c)
 ```
 
     [0, 1, 2, 3, 4, 5]
-    
+
 
 
 ```python
@@ -230,5 +230,4 @@ list_c = [80, 90, 80]
         d.append{'ko': 90}
                 ^
     SyntaxError: invalid syntax
-    
 
